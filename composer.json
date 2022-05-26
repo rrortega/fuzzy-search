@@ -1,5 +1,5 @@
 {
-    "name": "loilo/fuse",
+    "name": "rrortega/fuzzy-search",
     "description": "Fuzzy search for PHP based on Bitap algorithm",
     "type": "library",
     "version": "6.6.2",
