@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "php": "^7.4 || ^8.0"
+        "php": "^7.3 || ^7.4 || ^8.0"
     },
     "require-dev": {
         "dms/phpunit-arraysubset-asserts": "^0.3.0 || ^0.4.0",
