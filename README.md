@@ -1,17 +1,6 @@
-<div align="center">
+ 
 
-![The Fuse logo, a violet asterisk, in reference to the Fuse.js logo](fuse.svg)
-<br>
-
-</div>
-
-# Fuse
-
-_A fuzzy search library for PHP_
-
-[![Tests](https://badgen.net/github/checks/loilo/Fuse/master)](https://github.com/loilo/Fuse/actions)
-[![Packagist](https://badgen.net/packagist/v/loilo/fuse)](https://packagist.org/packages/loilo/fuse)
-![PHP Version](https://badgen.net/packagist/php/loilo/fuse)
+# fuzzy search library for PHP 
 
 This is a PHP port of the awesome [Fuse.js](https://github.com/krisk/fuse) project and aims to provide full API compatibility wherever possible.
 
@@ -37,7 +26,7 @@ Check out their [demo](https://fusejs.io/demo.html) and [examples](https://fusej
 This package is available via Composer. To add it to your project, just run:
 
 ```bash
-composer require loilo/fuse
+composer require rrortega/fuzzy-search
 ```
 
 Note that at least PHP 7.4 is needed to use Fuse.
